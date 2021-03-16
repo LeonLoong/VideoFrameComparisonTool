@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onedir --icon="A:\Demo\Global\Other\Demo_CheckFrameTool\CheckFrameTool.ico" --name="Demo_CheckFrameTool" "A:\Demo\Global\Other\Demo_CheckFrameTool\CheckFrameTool.py"
